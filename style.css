@@ -1,0 +1,24 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+li{
+    color: black;
+    font-size: large;
+    background-color: blanchedalmond;
+}
+h1{
+    color: whitesmoke;
+    font-size: x-large;
+    background-color: black;
+}
+h2{
+    color: lightgray;
+    font-size: larger;
+    background-color: darkslategray;
+}
+p{
+    color: darkslategray;
+    font-family: "Brush Script MT";
+    font-size: larger;
+}
